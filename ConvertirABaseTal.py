@@ -1,1 +1,0 @@
-def convertirABaseTal(n, b)
